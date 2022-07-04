@@ -11,7 +11,7 @@
 
 # 💫 About Me
   
-  ![reversal](https://capsule-render.vercel.app/api?type=transparent&height=80&animation=twinkling&text=주니어%20개발자%20박진욱%20입니다%20😀&fontSize=35&fontAlign=50&fontAlignY=50&fontColor=fddf68)
+  ![reversal](https://capsule-render.vercel.app/api?type=transparent&height=50&animation=twinkling&text=주니어%20개발자%20박진욱%20입니다%20😀&fontSize=35&fontAlign=50&fontAlignY=50&fontColor=fddf68)
   
   <div align="left"><h2>Welcome to my Github and have a productive experience!😁</h2></div>
 
@@ -20,8 +20,10 @@
   <div align="left"><h4> 🎫 Certificated Korea IT Academy in Seoul</h4></div>
   
   <div align="left"><h4> 📧 gfjg12@naver.com</h4></div>  
-  <br>
   
+  ***
+  
+  <br>
 
 # 💻 Tech Stack
 
@@ -38,7 +40,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 ![ORACLE](https://img.shields.io/badge/oracle-F80000.svg?style=plastic&logo=oracle&logoColor=white)
 
-
+<br>  
+  
 # 🛠 ️Tools
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=plastic&logo=Eclipse&logoColor=white)
@@ -53,7 +56,9 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=plastic&logo=Replit&logoColor=white)
 
+  <br>
 
+  ***
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkkukkk&theme=maroongold&show_icons=true&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkukkk&layout=compact&theme=maroongold&hide=ipynb&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
