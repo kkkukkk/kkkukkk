@@ -1,9 +1,9 @@
-
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=😁%20주니어%20개발자%20박진욱%20입니다%20😀&fontAlign=50&fontAlignY=35&fontSize=20&desc=(。%20・∀・)ノ&descAlign=50&descAlignY=65&theme=radical)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkkukkk&count_bg=%23FF8B8B&title_bg=%23B4B4B4&icon=probot.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 💫 About Me :
-<h3 align="center">주니어 개발자 박진욱 입니다 \\(￣︶￣ \\)</h3> <br><br>
+<h3 align="center">주니어 개발자 박진욱 입니다 \(￣︶￣ \)</h3> <br><br>
 <p align="center"><img width="50%" src="https://user-images.githubusercontent.com/93972072/177085691-1997e0b1-e843-4647-ae17-52872ad01401.gif"/></p>
 
 # 💻 Tech Stack
