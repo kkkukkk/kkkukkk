@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkkukkk&count_bg=%23FF8B8B&title_bg=%23B4B4B4&icon=probot.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 💫 About Me :
-주니어 개발자 박진욱 입니다 \\(￣︶￣ \\)
+주니어 개발자 박진욱 입니다 \\(￣︶￣ \\) <br>
 <img width="50%" src="https://user-images.githubusercontent.com/93972072/177085691-1997e0b1-e843-4647-ae17-52872ad01401.gif"/>
 
 # 💻 Tech Stack
