@@ -19,7 +19,7 @@
   
   <div align="left"><h4> 🎫 Certificated Korea IT Academy in Seoul</h4></div>
   
-  <div align="left"><h4> 📧 jin960828@naver.com</h4></div>  
+  <div align="left"><h4> 📧 gfjg12@naver.com</h4></div>  
   <br>
   
 
