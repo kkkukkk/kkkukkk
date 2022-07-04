@@ -15,11 +15,11 @@
   
   <div align="left"><h2>Welcome to my Github and have a productive experience!😁</h2></div>
 
-  <div align="left"><h3> 🏫 Graduate Sejong univ. (Kor), Electronic Infomation Communication</h4></div>
+  <div align="left"><h4> 🏫 Graduate Sejong univ. (Kor), Electronic Infomation Communication</h4></div>
   
-  <div align="left"><h3> 🎫 Certificated Korea IT Academy in Seoul</h4></div>
+  <div align="left"><h4> 🎫 Certificated Korea IT Academy in Seoul</h4></div>
   
-  <div align="left"><h3> 📧 Email: jin960828@naver.com</h4></div>  
+  <div align="left"><h4> 📧 Email: jin960828@naver.com</h4></div>  
   <br>
   
 
@@ -55,11 +55,9 @@
 
 
 
-<div align="left">
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkkukkk&theme=maroongold&show_icons=true&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkukkk&layout=compact&theme=maroongold&hide=ipynb&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 </div>
 
