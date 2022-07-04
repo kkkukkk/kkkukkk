@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=D6D6D6&height=250&animation=blinking&section=header&text=Welcome!&stroke=6CE8FF&strokeWidth=3&fontSize=78&&fontColor=B1F3FF&fontAlign=75&fontAlignY=57)
+![header](https://capsule-render.vercel.app/api?type=waving&color=D6D6D6&height=250&animation=blinking&section=header&text=Welcome!&stroke=3CFFFF&strokeWidth=2&fontSize=78&&fontColor=EEEEEE&fontAlign=75&fontAlignY=57)
   
   <img width="50%" src="https://user-images.githubusercontent.com/93972072/177085691-1997e0b1-e843-4647-ae17-52872ad01401.gif"/>
   
@@ -10,7 +10,7 @@
 
 # 💫 About Me
   
-  ![reversal](https://capsule-render.vercel.app/api?type=rect&height=100&animation=twinkling&text=주니어%20개발자%20박진욱%20입니다%20😀&fontSize=35&fontAlign=50&fontAlignY=50&fontColor=494949&color=FFFFFF)
+  ![reversal](https://capsule-render.vercel.app/api?type=transparent&height=100&animation=twinkling&text=주니어%20개발자%20박진욱%20입니다%20😀&fontSize=35&fontAlign=50&fontAlignY=50&fontColor=EEEEEE)
 
 # 💻 Tech Stack
 
