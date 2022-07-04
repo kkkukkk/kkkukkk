@@ -10,7 +10,7 @@
 
 # 💫 About Me
   
-  ![reversal](https://capsule-render.vercel.app/api?type=rect&height=100&animation=twinkling&text=주니어%20개발자%20박진욱%20입니다%20😀&stroke=6CE8FF&strokeWidth=1&fontSize=35&fontAlign=50&fontAlignY=50&fontColor=24FEFE&color=ffffff)
+  ![reversal](https://capsule-render.vercel.app/api?type=rect&height=100&animation=twinkling&text=주니어%20개발자%20박진욱%20입니다%20😀&fontSize=35&fontAlign=50&fontAlignY=50&fontColor=494949&color=FFFFFF)
 
 # 💻 Tech Stack
 
