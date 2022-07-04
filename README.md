@@ -1,12 +1,11 @@
 <div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=D6D6D6&height=250&animation=blinking&section=header&text=Welcome!&stroke=6CE8FF&strokeWidth=3&fontSize=78&&fontColor=B1F3FF&fontAlign=75&fontAlignY=57)
-![reversal](https://capsule-render.vercel.app/api?type=rounded&height=200&animation=twinkling&text=😁%20주니어%20개발자%20박진욱%20입니다%20😀&fontAlign=50&fontAlignY=35&fontSize=30&desc=(。%20・∀・)ノ&descAlign=50&descAlignY=65&descSize=30&theme=radical)
-</div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkkukkk&count_bg=%23FF8B8B&title_bg=%23B4B4B4&icon=probot.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# 💫 About Me :
-<p align="center"><img width="50%" src="https://user-images.githubusercontent.com/93972072/177085691-1997e0b1-e843-4647-ae17-52872ad01401.gif"/></p>
+# 💫 About Me
+<img width="50%" src="https://user-images.githubusercontent.com/93972072/177085691-1997e0b1-e843-4647-ae17-52872ad01401.gif"/>
 
 # 💻 Tech Stack
 
@@ -42,6 +41,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkkukkk&theme=maroongold&show_icons=true&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkukkk&layout=compact&theme=maroongold&hide=ipynb&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
 
 
