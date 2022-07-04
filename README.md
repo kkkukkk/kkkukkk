@@ -12,13 +12,13 @@
   
   ![reversal](https://capsule-render.vercel.app/api?type=transparent&height=80&animation=twinkling&text=주니어%20개발자%20박진욱%20입니다%20😀&fontSize=35&fontAlign=50&fontAlignY=50&fontColor=fddf68)
   
-  <div align="left"><h3>Welcome to my Github and have a productive experience!</h3></div>
+  <div align="left"><h2>Welcome to my Github and have a productive experience!😁</h3></div>
 
-  <div align="left"><h4> 🏫 Graduate Sejong univ. (Kor), Electronic Infomation Communication</h4></div>
+  <div align="left"><h3> 🏫 Graduate Sejong univ. (Kor), Electronic Infomation Communication</h4></div>
   
-  <div align="left"><h4> 🎫 Certificated Korea IT Academy in Seoul</h4></div>
+  <div align="left"><h3> 🎫 Certificated Korea IT Academy in Seoul</h4></div>
   
-  <div align="left"><h4> 📧 Email: jin960828@naver.com</h4></div>  
+  <div align="left"><h3> 📧 Email: jin960828@naver.com</h4></div>  
   <br>
   
 
