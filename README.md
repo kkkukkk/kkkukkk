@@ -4,7 +4,7 @@
 
 # 💫 About Me :
 <h3 align="center">주니어 개발자 박진욱 입니다 \\(￣︶￣ \\)</h3> <br><br>
-<img align="center" width="50%" src="https://user-images.githubusercontent.com/93972072/177085691-1997e0b1-e843-4647-ae17-52872ad01401.gif"/>
+<p align="center"><img width="50%" src="https://user-images.githubusercontent.com/93972072/177085691-1997e0b1-e843-4647-ae17-52872ad01401.gif"/></p>
 
 # 💻 Tech Stack
 
