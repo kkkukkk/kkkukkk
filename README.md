@@ -11,7 +11,7 @@
 
 # 💫 About Me
   
-  ![reversal](https://capsule-render.vercel.app/api?type=transparent&height=50&animation=twinkling&text=주니어%20개발자%20박진욱%20입니다%20😀&fontSize=35&fontAlign=50&fontAlignY=50&fontColor=fddf68)
+  ![reversal](https://capsule-render.vercel.app/api?type=transparent&height=50&animation=twinkling&text=주니어%20개발자%20박진욱%20입니다%20😀&fontSize=35&fontAlign=50&fontAlignY=50&fontColor=00BDFF)
   
   <div align="left"><h2>Welcome to my Github and have a productive experience!😁</h2></div>
 
