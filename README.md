@@ -28,7 +28,7 @@
 # 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-boot-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/springboot-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
