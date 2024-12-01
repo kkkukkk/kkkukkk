@@ -35,10 +35,10 @@
 ![CSS](https://img.shields.io/badge/css-1572B6.svg?style=plastic&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=plastic&logo=Thymeleaf&logoColor=white)
 <br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 ![ORACLE](https://img.shields.io/badge/oracle-F80000.svg?style=plastic&logo=oracle&logoColor=white)
+![React](https://img.shields.io/badge/react-#61DAFB.svg?style=plastic&logo=react&logoColor=black)
 
 <br>  
 
