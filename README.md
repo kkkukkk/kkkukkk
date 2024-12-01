@@ -39,7 +39,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 ![ORACLE](https://img.shields.io/badge/oracle-F80000.svg?style=plastic&logo=oracle&logoColor=white)
 ![React](https://img.shields.io/badge/react-61DAFB?style=plastic&logo=react&logoColor=black)
-![Nest](https://img.shields.io/badge/nestjs-E0234E?style=plastic&logo=nest&logoColor=black)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=plastic&logo=nestjs&logoColor=black)
 ![Jest](https://img.shields.io/badge/jest-C21325?style=plastic&logo=jest&logoColor=black)
 
 <br>  
