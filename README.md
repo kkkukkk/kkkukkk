@@ -38,7 +38,7 @@
 <br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 ![ORACLE](https://img.shields.io/badge/oracle-F80000.svg?style=plastic&logo=oracle&logoColor=white)
-![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/react-61DAFB?style=plastic&logo=react&logoColor=black)
 
 <br>  
 
