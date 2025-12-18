@@ -56,7 +56,6 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kkkukkk&theme=prussian&hide_border=true)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkkukkk&theme=prussian&show_icons=true&hide=issues&hide_border=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkukkk&layout=compact&theme=prussian&hide=ipynb&langs_count=6&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
